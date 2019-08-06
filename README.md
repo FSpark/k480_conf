@@ -1,4 +1,13 @@
+For Self-use, the sequences has been replaced. If it still can't adapt your keyboard, please refer to this post in my blog to re-acquire a new sequence to complete the adaptation.
+
+https://fspark.me/archives/regulate-logitech-k480.html#toc-JustHackit
+
+ If you succeed, please share your code with everyone ;)
+
+---
+
 # k480_conf
+
 Configuration utility for setting up function keys on ubuntu for Logitech k480 keyboard.
 
 Inspiration came from this place:
